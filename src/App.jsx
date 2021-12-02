@@ -18,8 +18,10 @@ function App() {
     setShowComponent(event.target.data);
   }
   return (
-    <div className="App">
-      <h1>Welcome to Cory Anderson's Resume!</h1>
+    <div className="App text-light">
+      <header className="headingContainer">
+        <h1>Welcome to Cory Anderson's Resume!</h1>
+      </header>
       <div>
         {/* <Education />
         <History />
