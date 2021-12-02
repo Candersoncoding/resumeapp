@@ -16,8 +16,6 @@ const ContactMe = (props) => {
     
     return(
         <div>
-            <button className="btn btn-outline-light ">Contact Info</button>
-            
             <div className="jumbotronContainer">
                 <div className="jumbotron bg-primary text-light">
                     <h5 className="display-6 mb-3">E-mail: dev.cory.anderson@gmail.com</h5>

@@ -13,7 +13,7 @@ function App() {
   
   return (
     <div className="App text-light">
-      <header className="headingContainer">
+      <header className="appHeadingContainer">
         <h1>Welcome to Cory Anderson's Resume!</h1>
       </header>
       <Router>
